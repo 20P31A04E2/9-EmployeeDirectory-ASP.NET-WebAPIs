@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\data\\dataconcerns\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|solutionrelative:data\\dataconcerns\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|solutionrelative:webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|solutionrelative:data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|solutionrelative:webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708FD4CB-708D-46FD-97E6-A907219F80E5}|Services\\Services.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708FD4CB-708D-46FD-97E6-A907219F80E5}|Services\\Services.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708FD4CB-708D-46FD-97E6-A907219F80E5}|Services\\Services.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708FD4CB-708D-46FD-97E6-A907219F80E5}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\webapis\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1DD652-8318-4C58-B66F-C81106CD77EE}|WebAPIs\\WebAPIs.csproj|solutionrelative:webapis\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|solutionrelative:data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBC731-B0EF-465E-9430-FC6E47215660}|Data\\Repository.csproj|solutionrelative:data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E366353-9FCF-4874-A4B7-DF590B1AF52E}|Models\\Concerns.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\employee directory intialwebapis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E366353-9FCF-4874-A4B7-DF590B1AF52E}|Models\\Concerns.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\DataConcerns\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\DataConcerns\\Employee.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\DataConcerns\\Employee.cs",
+              "RelativeToolTip": "Data\\DataConcerns\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:48:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\appsettings.json",
+              "RelativeToolTip": "WebAPIs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T13:52:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIs\\Program.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\Program.cs",
+              "RelativeToolTip": "WebAPIs\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvyEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:30:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAPIs\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\WebAPIs\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebAPIs\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:44:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:57:16.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:08:11.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:38:34.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:17:59.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Data\\EmployeeDBContext.cs",
+              "RelativeToolTip": "Data\\EmployeeDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:50:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Employee Directory IntialWebAPIs\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:04:03.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
